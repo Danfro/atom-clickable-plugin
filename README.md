@@ -3,7 +3,7 @@
 This *atom-clickable-plugin* does provide some common clickable tools needed to build and run click packages for Ubuntu Touch from within Atom editor.
 
 ## Credits
-*This is a fork of the (now unmaintained) original atom-build-clickable plugin for Atom by @sverzegnassi. Many thanks to you for this great work!*
+This is a fork of the (now unmaintained) original [atom-build-clickable](https://github.com/sverzegnassi/atom-build-clickable) plugin for Atom by `@sverzegnassi`. Many thanks to you for this great work!
 
 ## Prerequisites
 
