@@ -7,7 +7,7 @@ This is a fork of the (now unmaintained) original [atom-build-clickable](https:/
 
 ## Prerequisites
 
-This package requires [clickable](https://github.com/bhdouglass/clickable) to be installed and available on your system. For detailed instructions on installing and usage please visit [clickable docs](https://clickable-ut.dev/latest/index.html)
+This package requires [clickable](https://github.com/bhdouglass/clickable) to be installed and available on your system. For detailed instructions on installing and usage please visit [clickable docs](https://clickable-ut.dev/)
 
 ## License
 
