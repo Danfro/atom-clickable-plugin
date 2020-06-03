@@ -1,21 +1,23 @@
 {
-  "name": "atom-build-clickable",
+  "name": "atom-clickable-plugin",
   "main": "lib/clickable.js",
-  "version": "0.3.0",
-  "description": "Atom Build provider for Clickable.",
+  "version": "1.0.0",
+  "description": "Atom plugin to provide the most common clickable commands needed to build and run Ubuntu Touch click packages.",
   "keywords": [
     "clickable",
     "ubuntu touch",
-    "ubports"
+    "ubports",
+    "click",
+    "danfro"
   ],
-  "repository": "https://github.com/sverzegnassi/atom-build-clickable",
+  "repository": "https://github.com/Danfro/atom-clickable-plugin",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
   },
   "providedServices": {
     "builder": {
-      "description": "Builds and/or run Ubuntu Touch applications",
+      "description": "Commands to build and run Ubuntu Touch click applications",
       "versions": {
         "2.0.0": "provideBuilder"
       }
