@@ -12,3 +12,7 @@ This package requires [clickable](https://github.com/bhdouglass/clickable) to be
 ## License
 
 This project is licensed under the terms of the MIT license (same as the original plugin). See `LICENSE` for details.
+
+## Screenshot
+
+<img src="screenshot.png" alt="screenshot" width="500"/>
