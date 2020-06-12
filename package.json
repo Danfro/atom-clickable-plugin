@@ -1,7 +1,7 @@
 {
   "name": "atom-clickable-plugin",
   "main": "lib/clickable.js",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Atom plugin to provide the most common clickable commands needed to build and run Ubuntu Touch click packages.",
   "keywords": [
     "clickable",
