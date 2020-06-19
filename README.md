@@ -15,4 +15,4 @@ This project is licensed under the terms of the MIT license (same as the origina
 
 ## Screenshot
 
-<img src="screenshot.png" alt="screenshot" width="500"/>
+![screenshot](https://raw.github.com/Danfro/atom-clickable-plugin/master/screenshot.png)
