@@ -1,4 +1,7 @@
 ## Changelog
+v1.2.0
+- add option for --arch arm64
+- improve usage note for custom command in settings
 
 v1.1.0
 - add clickable logs to the clickable menu
