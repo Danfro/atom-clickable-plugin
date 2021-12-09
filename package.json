@@ -1,8 +1,38 @@
 {
-  "name": "atom-clickable-plugin",
-  "main": "lib/clickable.js",
-  "version": "1.2.0",
+  "_from": "https://www.atom.io/api/packages/atom-clickable-plugin/versions/1.2.0/tarball",
+  "_id": "atom-clickable-plugin@1.2.0",
+  "_inBundle": false,
+  "_integrity": "sha512-7rh+1dx6lcm6xMuGKcSjzQU+FTYZrj15jG8tZcagT4xTkcfClXKF4Y/vYrEgoWvzk+c4LgSrPNM0FpCeVGWJvw==",
+  "_location": "/atom-clickable-plugin",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "remote",
+    "raw": "https://www.atom.io/api/packages/atom-clickable-plugin/versions/1.2.0/tarball",
+    "rawSpec": "https://www.atom.io/api/packages/atom-clickable-plugin/versions/1.2.0/tarball",
+    "saveSpec": "https://www.atom.io/api/packages/atom-clickable-plugin/versions/1.2.0/tarball",
+    "fetchSpec": "https://www.atom.io/api/packages/atom-clickable-plugin/versions/1.2.0/tarball"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://www.atom.io/api/packages/atom-clickable-plugin/versions/1.2.0/tarball",
+  "_shasum": "a6dc3159b9be164312d3b9af3f709aa110799e72",
+  "_spec": "https://www.atom.io/api/packages/atom-clickable-plugin/versions/1.2.0/tarball",
+  "_where": "/tmp/apm-install-dir-2021029-6015-1wel146.rq85",
+  "bugs": {
+    "url": "https://github.com/Danfro/atom-clickable-plugin/issues"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "atom-package-deps": "^4.3.1"
+  },
+  "deprecated": false,
   "description": "Atom plugin to provide the most common clickable commands needed to build and run Ubuntu Touch click packages.",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "homepage": "https://github.com/Danfro/atom-clickable-plugin#readme",
   "keywords": [
     "clickable",
     "ubuntu touch",
@@ -10,11 +40,12 @@
     "click",
     "danfro"
   ],
-  "repository": "https://github.com/Danfro/atom-clickable-plugin",
   "license": "MIT",
-  "engines": {
-    "atom": ">=1.0.0 <2.0.0"
-  },
+  "main": "lib/clickable.js",
+  "name": "atom-clickable-plugin",
+  "package-deps": [
+    "build"
+  ],
   "providedServices": {
     "builder": {
       "description": "Commands to build and run Ubuntu Touch click applications",
@@ -23,10 +54,9 @@
       }
     }
   },
-  "package-deps": [
-    "build"
-  ],
-  "dependencies": {
-    "atom-package-deps": "^4.3.1"
-  }
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Danfro/atom-clickable-plugin.git"
+  },
+  "version": "1.2.0"
 }
