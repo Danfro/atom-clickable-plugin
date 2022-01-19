@@ -4,7 +4,7 @@ v2.0.0
 - restructured preconfigured commands and settings
 - removed deprecated options like --dirty
 
-**This update is not backwards compatible to clickable 6. Make sure you run clickable 7 before installing!**
+**This update is not backwards compatible to clickable 6. Make sure you install clickable 7 before updating!**
 
 
 v1.2.0
